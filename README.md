@@ -53,8 +53,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devvkun&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvkun&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devvvkun&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvvkun&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devvkun&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devvvkun&theme=tokyo-night" />
 </p>
 
 ---
@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="https://github.com/devvkun"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="https://www.instagram.com/devvkun/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/himanshusinghsln/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
