@@ -62,9 +62,10 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devvvkun&theme=tokyo-night" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devvvkun&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devvvkun&layout=compact&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=devvvkun&theme=tokyonight" />
 </p>
-
 ---
 
 ## 🎯 Current Focus
