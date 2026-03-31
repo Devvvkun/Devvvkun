@@ -52,11 +52,8 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devvvkun&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvvkun&layout=compact&theme=tokyonight" />
-</p>
-
+https://github-readme-stats.vercel.app/api?username=devvvkun&show_icons=true&theme=tokyonight
+https://github-readme-stats.vercel.app/api/top-langs/?username=devvvkun&layout=compact&theme=tokyonight
 ---
 
 ## 🔥 Contribution Graph
