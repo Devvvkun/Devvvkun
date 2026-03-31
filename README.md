@@ -53,8 +53,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devvvkun&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvvkun&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=devvvkun&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devvvkun&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -62,11 +62,11 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devvvkun&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=devvvkun&layout=compact&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=devvvkun&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devvvkun&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devvvkun&theme=tokyo-night" />
 </p>
----
+
 
 ## 🎯 Current Focus
 
