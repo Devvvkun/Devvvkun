@@ -18,6 +18,9 @@
 
 ---
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ## 🚀 Featured Projects
 
 ### 😊 Happy Life Index  
@@ -77,5 +80,9 @@
 
 ---
 
+  ## 💰 You can help me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/paypal.me/himanshusln) 
+
+  
 ## ⚡ Fun Fact
 I don’t just learn coding — I teach it too 👨‍🏫🔥
