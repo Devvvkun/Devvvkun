@@ -58,7 +58,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=devvvkun&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devvvkun&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devvvkun&theme=tokyo-night" />
 </p>
 
 
